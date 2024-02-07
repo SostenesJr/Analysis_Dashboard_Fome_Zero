@@ -51,7 +51,7 @@ linhas = df1['countries'].isin(country_opitions)
 df1 = df1.loc[linhas, :]
 
 # Número de restaurantes - Slider
-num_slider = st.sidebar.slider(':blue[Selecione a quantidade de Restaurantes que deseja visualizar]', value=25,
+num_slider = st.sidebar.slider('Selecione a quantidade de Restaurantes que deseja visualizar', value=25,
                  min_value=0,
                  max_value=50)
 
