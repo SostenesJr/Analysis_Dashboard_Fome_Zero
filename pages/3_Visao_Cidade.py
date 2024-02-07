@@ -40,7 +40,7 @@ st.sidebar.markdown("""---""")
 dataframe = pd.read_csv('zomato.csv')
 df1 = lp.Clean_code(dataframe)
 
-st.header(':red[Visão Cidades]')
+st.header('Visão Cidades')
 st.header(":orange[Dataframe]")
 st.dataframe(df1)
 
@@ -58,9 +58,9 @@ st.sidebar.markdown ('##### :orange[Powered by Comunidade DS]')
 st.sidebar.markdown ('###### :orange[Data Analyst: Sostenes Jr]') 
 
 st.header(':orange[Fome Zero Restaurantes!]')
-st.subheader(':blue[O Melhor lugar para encontrar o melhor restaurante ou o pior!]', divider='red')
+st.subheader('O Melhor lugar para encontrar o melhor restaurante ou o pior!', divider='red')
 
-st.subheader(':blue[Temos os seguintes graficos dentro da nossa plataforma:]')
+st.subheader('Temos os seguintes graficos dentro da nossa plataforma:')
 
 # ==============================
 # Visão Cidades
