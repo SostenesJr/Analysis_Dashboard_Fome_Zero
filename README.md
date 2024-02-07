@@ -1,7 +1,7 @@
 # projetopessoal_fomezero
 Primeiro projeto de Ciencia de dados
  ## Esse projeto trabalhou as  habilidades e ferramentas:
- - Hbilidades: 
+ - Habilidades: 
    - Logica d eprogramação
    - Python
    - Manipulação de dados
