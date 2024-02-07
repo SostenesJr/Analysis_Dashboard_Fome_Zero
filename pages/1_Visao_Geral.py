@@ -55,7 +55,7 @@ st.sidebar.markdown ('###### :orange[Data Analyst: Sostenes Jr]')
 st.header(':orange[Fome Zero Restaurantes!]')
 st.subheader('O Melhor lugar para encontrar o melhor restaurante ou o pior!', divider='red')
 
-st.subheader('Temos as seguintes metricas dentro da nossa plataforma')
+st.subheader('Temos as seguintes métricas dentro da nossa plataforma')
 
 with st.container():
     col1, col2, col3, col4, col5 = st.columns(5)
