@@ -62,8 +62,7 @@
 13. Qual o tipo de culinária que possui mais restaurantes que aceitam pedidos online e fazem entregas?
 
 #### Top 3 Insights de dados
-1. As metricas gerais Quantitativas. Há uma ampla variedade de restaurante na india com isso uma grande variedade de culinaria.
-sequenciais.
+1. As metricas gerais Quantitativas. Há uma ampla variedade de restaurante na india com isso uma grande variedade de culinaria sequenciais.
 2. londres tem mais restaurante avaliados 4 estrelas do que os outros cidade por habitante.
 3. Na maioria das capitais de cada Pais tem 80 restaurantes cadastrados.
 
