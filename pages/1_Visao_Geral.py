@@ -6,6 +6,7 @@ import limpeza as lp
 import folium
 from folium.plugins import MarkerCluster
 from streamlit_folium import folium_static
+import inflection as ifn
 
 # ==============================
 # Configs
