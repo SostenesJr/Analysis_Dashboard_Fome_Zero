@@ -57,7 +57,7 @@ st.sidebar.markdown ('###### :orange[Data Analyst: Sostenes Jr]')
 st.header(':orange[Fome Zero Restaurantes!]')
 st.subheader(':blue[O Melhor lugar para encontrar o melhor restaurante ou o pior!]', divider='red')
 
-st.subheader(':blue[Temos as seguintes metricas dentro da nossa plataforma:]')
+st.subheader(':blue[Temos os seguintes graficos dentro da nossa plataforma:]')
 
 with st.container():
     # Coluna Experimental - Treemapgraph
