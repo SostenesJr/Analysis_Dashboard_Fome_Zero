@@ -77,7 +77,7 @@ with st.container():
         col5.metric(':green[Culinarias cadastradas]', vl_type, "quantidade")
 with st.container():
     # Linha 2 - Mapa Mundi 
-    st.subheader(':blue[Aqui está um mapa mundial mostrando os restaurantes cadastrados. Explore manualmente para ver informações como tipo de comida, avaliações e localização!]')
+    st.subheader(':orange[Aqui está um mapa mundial mostrando os restaurantes cadastrados. Explore manualmente para ver informações como tipo de comida, avaliações e localização!]')
     with st.container():
         datamap = df1[['restaurant_name', 'longitude', 'latitude', 'cuisines', 'average_cost_for_two', 'currency', 'aggregate_rating', 'rating_color']].reset_index(drop = True)
         
