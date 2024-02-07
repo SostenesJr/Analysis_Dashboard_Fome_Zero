@@ -39,7 +39,7 @@ st.markdown(
     #### - :orange[Visão Geral:]
         - Analíse feita de modo geral onde aborda informação importantes de modo amplo.  
     #### - :orange[Visão Pais:]
-        - Analíse feita de modo espcíefico quantidade, qualidade, preço e avaliações por cada país.
+        - Analíse feita de modo específico quantidade, qualidade, preço e avaliações por cada país.
     #### - :orange[Visão Cidade:]
         - Analíse feita de modo específico quantidade, qualidade, preço e avaliações por cada cidade.
     #### - :orange[Visão Restaurantes:]
