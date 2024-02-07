@@ -1,5 +1,5 @@
 # projetopessoal_fomezero
-### Primeiro projeto de Ciencia de dados, abordando metricas e graficos de culinarias pelo mundo.
+### Primeiro projeto de Ciencia de dados, abordando métricas e gráficos de culinárias pelo mundo.
 
 #### O Fome Zero opera como um marketplace de restaurantes, facilitando as interações entre clientes e estabelecimentos. Os restaurantes se cadastram na plataforma da Fome Zero, fornecendo informações como localização, especialidades culinárias, disponibilidade de reservas e serviços de entrega, além de uma avaliação dos serviços e produtos oferecidos.
 #### O desafio atual é compreender melhor o negócio para tomar decisões estratégicas que impulsionem ainda mais o crescimento da Fome Zero. Para isso, é necessário realizar uma análise abrangente dos dados da empresa e criar dashboards a partir dessas análises, a fim de responder às seguintes perguntas estratégicas:
