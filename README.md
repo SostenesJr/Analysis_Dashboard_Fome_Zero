@@ -1,5 +1,5 @@
 # projetopessoal_fomezero
-Primeiro projeto de Ciencia de dados
+## Primeiro projeto de Ciencia de dados, abordando metricas e graficos de culinarias pelo mundo.
  ## Esse projeto trabalhou as  habilidades e ferramentas:
  - Habilidades: 
    - Logica d eprogramação
