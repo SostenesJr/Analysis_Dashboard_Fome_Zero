@@ -1,5 +1,4 @@
 import pandas as pd
-import inflection as ifn
 
 # Renomeação das colunas 
 def rename_columns(dataframe):
