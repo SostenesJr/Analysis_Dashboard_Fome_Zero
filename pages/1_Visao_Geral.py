@@ -6,7 +6,7 @@ import limpeza as lp
 import folium
 from folium.plugins import MarkerCluster
 from streamlit_folium import folium_static
-import inflection as ifn
+
 
 # ==============================
 # Configs
@@ -35,8 +35,8 @@ st.sidebar.markdown("""---""")
 dataframe = pd.read_csv('zomato.csv')
 df1 = lp.Clean_code(dataframe)
 
-st.header(':red[Visão Geral]')
-st.header(":orange[Dataframe]")
+st.header(':orange[Visão Geral]')
+st.header("Dataframe")
 st.dataframe(df1)
 
 st.sidebar.markdown('# :orange[Filtros]')
@@ -44,7 +44,7 @@ paises = df1['countries'].unique()
 
 # Filtros
 paises = list(df1['countries'].unique())
-country_opitions = st.sidebar.multiselect(':blue[Escolha os países que deseja visualizar os restaurante:]', paises, default=['Brazil', 'India', 'United States of America', 'England', 'South Africa'])
+country_opitions = st.sidebar.multiselect('Escolha os países que deseja visualizar os restaurante:', paises, default=['Brazil', 'India', 'United States of America', 'England', 'South Africa'])
 
 linhas = df1['countries'].isin(country_opitions)
 df1 = df1.loc[linhas, :]
@@ -53,9 +53,9 @@ st.sidebar.markdown ('##### :orange[Powered by Comunidade DS]')
 st.sidebar.markdown ('###### :orange[Data Analyst: Sostenes Jr]') 
 
 st.header(':orange[Fome Zero Restaurantes!]')
-st.subheader(':blue[O Melhor lugar para encontrar o melhor restaurante ou o pior!]', divider='red')
+st.subheader('O Melhor lugar para encontrar o melhor restaurante ou o pior!', divider='red')
 
-st.subheader(':blue[Temos as seguintes metricas dentro da nossa plataforma:]')
+st.subheader('Temos as seguintes metricas dentro da nossa plataforma')
 
 with st.container():
     col1, col2, col3, col4, col5 = st.columns(5)
