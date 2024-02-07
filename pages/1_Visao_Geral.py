@@ -65,16 +65,16 @@ with st.container():
         col1.metric(':green[Restaurantes Cadastrado]', vl_uni, "quantidade")
     with col2:
         vl_countries = df1['countries'].nunique()
-        col2.metric(':green[Paises Cadastrados]', vl_countries, "quantidade")
+        col2.metric(':green[Países Cadastrados]', vl_countries, "quantidade")
     with col3:
         vl_city = df1['city'].nunique()
         col3.metric(':green[Cidades Cadastradas]', vl_city, "quantidade")
     with col4:
         vl_ranting = df1['aggregate_rating'].count()
-        col4.metric(':green[Total de avaliações feitas]', vl_ranting, "quantidade")   
+        col4.metric(':green[Total de Avaliações Feitas]', vl_ranting, "quantidade")   
     with col5:
         vl_type = df1['cuisines'].nunique()
-        col5.metric(':green[Culinarias cadastradas]', vl_type, "quantidade")
+        col5.metric(':green[Culinárias Cadastradas]', vl_type, "quantidade")
 with st.container():
     # Linha 2 - Mapa Mundi 
     st.subheader(':orange[Aqui está um mapa mundial mostrando os restaurantes cadastrados. Explore manualmente para ver informações como tipo de comida, avaliações e localização!]')
