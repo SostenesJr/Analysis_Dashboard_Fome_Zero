@@ -60,7 +60,7 @@ st.sidebar.markdown ('###### :orange[Data Analyst: Sostenes Jr]')
 st.header(':orange[Fome Zero Restaurantes!]')
 st.subheader('O Melhor lugar para encontrar o melhor restaurante ou o pior!', divider='red')
 
-st.subheader('Temos os seguintes graficos dentro da nossa plataforma:')
+st.subheader('Temos os seguintes gráficos dentro da nossa plataforma:')
 
 # ==============================
 # Visão Cidades
