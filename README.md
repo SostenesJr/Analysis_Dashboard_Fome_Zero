@@ -74,4 +74,4 @@ O painel pode ser acessado através desse link: https://projetopeappalfomezero-7
 #### Conclusão
   O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas
 que exibam essas métricas da melhor forma possível para a analíse.
-Da visão da Empresa, podemos concluir que a india devido ao seu numero de habitantes e restaurantes tem a maior variedade de culinaria, porem tem um alto preço para a media por pessoa.
+Da visão da Empresa, podemos concluir que a Índia devido ao seu número de habitantes e restaurantes tem a maior variedade de culinária, porém tem um alto preço para a média por habitantes.
