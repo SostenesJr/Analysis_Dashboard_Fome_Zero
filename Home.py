@@ -50,6 +50,6 @@ st.markdown(
       
     #### :orange[Ask for Help]
     - :orange[Time de Data Science no Discord
-        Sostenesjr1993@gmail.com]
+        @jrramos
     """
 )
