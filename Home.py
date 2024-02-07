@@ -49,7 +49,7 @@ st.markdown(
     
       
     #### :orange[Ask for Help]
-    - :orange[Time de Data Science no Discord
+    - :orange[Time de Data Science no Discord] 
         @jrramos
     """
 )
