@@ -27,6 +27,9 @@ st.sidebar.markdown('## :orange[Projeto de Análise de dados]')
 
 st.sidebar.markdown("""---""")
 
+st.sidebar.markdown ('##### :orange[Powered by Comunidade DS]')
+st.sidebar.markdown ('###### :orange[Data Analyst: Sostenes Jr]') 
+
 st.write("# Análise detalhada sobre os dados da companhia fome Zero")
 
 st.markdown(
@@ -47,6 +50,6 @@ st.markdown(
       
     #### :orange[Ask for Help]
     - :orange[Time de Data Science no Discord
-        @maigaron]
+        Sostenesjr1993@gmail.com]
     """
 )
