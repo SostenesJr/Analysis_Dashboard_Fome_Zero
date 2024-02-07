@@ -59,7 +59,7 @@ num_slider = st.sidebar.slider('Selecione a quantidade de Restaurantes que desej
 # Tipos de culinária
 culinarias = list (df1['cuisines'].unique())
 culinarias_options = st.sidebar.multiselect(
-    'Escolha os tipos de culinária que deseja visualizar:', culinarias)
+    'Escolha os tipos de culinária que deseja visualizar:', culinarias, default=['Brazilian'])
 
 linhas = df1['cuisines'].isin(culinarias_options)
 df_culinaria = df1.loc[linhas, :]
