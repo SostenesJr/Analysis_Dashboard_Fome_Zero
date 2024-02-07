@@ -49,7 +49,7 @@ paises = df1['countries'].unique()
 
 # Filtros
 paises = list(df1['countries'].unique())
-country_opitions = st.sidebar.multiselect(':blue[Escolha os países que deseja visualizar os restaurante:]', paises, default=['Brazil', 'India', 'United States of America', 'England', 'South Africa'])
+country_opitions = st.sidebar.multiselect('Escolha os países que deseja visualizar os restaurante:', paises, default=['Brazil', 'India', 'United States of America', 'England', 'South Africa'])
 
 linhas = df1['countries'].isin(country_opitions)
 df1 = df1.loc[linhas, :]
