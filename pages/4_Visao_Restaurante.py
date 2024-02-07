@@ -36,7 +36,7 @@ st.sidebar.markdown("""---""")
 dataframe = pd.read_csv('zomato.csv')
 df1 = lp.Clean_code(dataframe)
 
-st.header(':red[Visão Restaurantes]')
+st.header('Visão Restaurantes')
 st.header(":orange[Dataframe]")
 st.dataframe(df1)
 
@@ -59,7 +59,7 @@ num_slider = st.sidebar.slider(':blue[Selecione a quantidade de Restaurantes que
 # Tipos de culinária
 culinarias = list (df1['cuisines'].unique())
 culinarias_options = st.sidebar.multiselect(
-    ':blue[Escolha os tipos de culinária que deseja visualizar:]', culinarias)
+    ':orange[Escolha os tipos de culinária que deseja visualizar:]', culinarias)
 
 linhas = df1['cuisines'].isin(culinarias_options)
 df_culinaria = df1.loc[linhas, :]
@@ -69,9 +69,9 @@ st.sidebar.markdown ('##### :orange[Powered by Comunidade DS]')
 st.sidebar.markdown ('###### :orange[Data Analyst: Sostenes Jr]') 
 
 st.header(':orange[Fome Zero Restaurantes!]')
-st.subheader(':blue[O Melhor lugar para encontrar o melhor restaurante ou o pior!]', divider='red')
+st.subheader('O Melhor lugar para encontrar o melhor restaurante ou o pior!', divider='red')
 
-st.subheader(':blue[Temos as seguintes metricas e graficos dentro da nossa plataforma:]')
+st.subheader('Temos as seguintes metricas e graficos dentro da nossa plataforma:')
 
 with st.container():
     
