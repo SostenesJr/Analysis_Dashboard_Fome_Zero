@@ -1,8 +1,8 @@
 # projetopessoal_fomezero
 ### Primeiro projeto de Ciencia de dados, abordando metricas e graficos de culinarias pelo mundo.
 
-- O Fome Zero opera como um marketplace de restaurantes, facilitando as interações entre clientes e estabelecimentos. Os restaurantes se cadastram na plataforma da Fome Zero, fornecendo informações como localização, especialidades culinárias, disponibilidade de reservas e serviços de entrega, além de uma avaliação dos serviços e produtos oferecidos.
-- O desafio atual é compreender melhor o negócio para tomar decisões estratégicas que impulsionem ainda mais o crescimento da Fome Zero. Para isso, é necessário realizar uma análise abrangente dos dados da empresa e criar dashboards a partir dessas análises, a fim de responder às seguintes perguntas estratégicas:
+### O Fome Zero opera como um marketplace de restaurantes, facilitando as interações entre clientes e estabelecimentos. Os restaurantes se cadastram na plataforma da Fome Zero, fornecendo informações como localização, especialidades culinárias, disponibilidade de reservas e serviços de entrega, além de uma avaliação dos serviços e produtos oferecidos.
+### O desafio atual é compreender melhor o negócio para tomar decisões estratégicas que impulsionem ainda mais o crescimento da Fome Zero. Para isso, é necessário realizar uma análise abrangente dos dados da empresa e criar dashboards a partir dessas análises, a fim de responder às seguintes perguntas estratégicas:
 
 - Geral
 1. Quantos restaurantes únicos estão registrados?
@@ -61,18 +61,18 @@
 12. Qual o tipo de culinária que possui a maior nota média?
 13. Qual o tipo de culinária que possui mais restaurantes que aceitam pedidos online e fazem entregas?
 
-- Top 3 Insights de dados
+### Top 3 Insights de dados
 1. As metricas gerais Quantitativas. Há uma ampla variedade de restaurante na india com isso uma grande variedade de culinaria.
 sequenciais.
 2. londres tem mais restaurante avaliados 4 estrelas do que os outros cidade por habitante.
 3. Na maioria das capitais de cada Pais tem 80 restaurantes cadastrados.
 
-- O produto final do projeto
+### O produto final do projeto
   Painel online, hospedado em um Cloud e disponível para acesso em
 qualquer dispositivo conectado à internet.
 O painel pode ser acessado através desse link: https://projetopeappalfomezero-777.streamlit.app/
 
-## Conclusão
+### Conclusão
   O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas
 que exibam essas métricas da melhor forma possível para a analíse.
-Da visão da Empresa, podemos concluir que a india devido ao seu numero de habitantes e restaurantes tem a maior variedades de culinaria, porem tem um alto preço para a media por pessoa.
+Da visão da Empresa, podemos concluir que a india devido ao seu numero de habitantes e restaurantes tem a maior variedade de culinaria, porem tem um alto preço para a media por pessoa.
