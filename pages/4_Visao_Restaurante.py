@@ -80,7 +80,7 @@ with st.container():
     with col1:
         # Selecionando restaurantes com a cozinha 'Italian'
         df_aux = ul.melhor_restaurante(df1,'Italian')
-        st.metric(':green[Italiana:] ' + str(df_aux.iloc[0, 1]), value=df_aux.iloc[0, 2], 'Max: 5/0')
+        st.metric(':green[Italiana:] ' + str(df_aux.iloc[0, 1]), value=df_aux.iloc[0, 2],)
     
     with col2:
         # Selecionando restaurantes com a cozinha 'Brazilian'
