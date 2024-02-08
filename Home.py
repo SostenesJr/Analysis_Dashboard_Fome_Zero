@@ -35,7 +35,7 @@ st.write("# Análise detalhada sobre os dados da companhia fome Zero")
 st.markdown(
     """
     ### :orange[O Painel analítico Fome Zero foi construído para acompanhar as métricas de culinárias por região, país, cidade e restaurantes:]
-    ####  :orange[Como utilizar esses Painel de avaliações?]
+    ####  :orange[Como utilizar esse Painel de avaliação?]
     #### - :orange[Visão Geral:]
         - Analíse feita de modo geral onde aborda informação importantes de modo amplo.  
     #### - :orange[Visão País:]
