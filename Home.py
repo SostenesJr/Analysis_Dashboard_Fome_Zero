@@ -37,15 +37,15 @@ st.markdown(
     ### :orange[O Painel analítico Fome Zero foi construído para acompanhar as métricas de culinárias por região, país, cidade e restaurantes:]
     ####  :orange[Como utilizar esse Painel de avaliação?]
     #### - :orange[Visão Geral:]
-        - Analíse feita de modo geral onde aborda informação importantes de modo amplo.  
+        - Análise feita de modo geral onde aborda informação importantes de modo amplo.  
     #### - :orange[Visão País:]
-        - Analíse feita de modo específico quantidade, qualidade, preço e avaliações por cada país.
+        - Análíse feita de modo específico quantidade, qualidade, preço e avaliações por cada país.
     #### - :orange[Visão Cidade:]
-        - Analíse feita de modo específico quantidade, qualidade, preço e avaliações por cada cidade.
+        - Análíse feita de modo específico quantidade, qualidade, preço e avaliações por cada cidade.
     #### - :orange[Visão Restaurantes:]
-        - Analíse feita de modo específico quantidade, qualidade, preço e avaliações por cada restaurante.
+        - Análise feita de modo específico quantidade, qualidade, preço e avaliações por cada restaurante.
     #### - :orange[Visão Culinária:]
-        - Analíse feita de modo específico quantidade, qualidade, preço e avaliações por cada tipo de culinária.
+        - Análise feita de modo específico quantidade, qualidade, preço e avaliações por cada tipo de culinária.
     
       
     #### :orange[Ask for Help]
