@@ -39,13 +39,13 @@ st.markdown(
     #### - :orange[Visão Geral:]
         - Análise feita de modo geral onde aborda informação importantes de modo amplo.  
     #### - :orange[Visão País:]
-        - Análíse feita de modo específico quantidade, qualidade, preço e avaliações por cada país.
+        - Análíse feita de modo específico, quantitativo, qualitativo, preço e avaliações por cada país.
     #### - :orange[Visão Cidade:]
-        - Análíse feita de modo específico quantidade, qualidade, preço e avaliações por cada cidade.
+        - Análíse feita de modo específico, quantitativo, qualitativo, preço e avaliações por cada cidade.
     #### - :orange[Visão Restaurantes:]
-        - Análise feita de modo específico quantidade, qualidade, preço e avaliações por cada restaurante.
+        - Análise feita de modo específico, quantitativo, qualitativo, preço e avaliações por cada restaurante.
     #### - :orange[Visão Culinária:]
-        - Análise feita de modo específico quantidade, qualidade, preço e avaliações por cada tipo de culinária.
+        - Análise feita de modo específico, quantitativo, qualitativo, preço e avaliações por cada tipo de culinária.
     
       
     #### :orange[Ask for Help]
