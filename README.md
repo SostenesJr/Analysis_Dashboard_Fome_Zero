@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="Gemini_Generated_Image_rxczyurxczyurxcz" src="https://github.com/user-attachments/assets/25c104a5-e4b7-4eb7-a86a-260ff9f01284" />
+
 # projetopessoal_fomezero
 ### Primeiro projeto de Ciência de dados, abordando métricas e gráficos de culinárias pelo mundo.
 
