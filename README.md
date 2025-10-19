@@ -76,6 +76,7 @@ Explore os dados e insights em tempo real através do nosso painel online, hospe
 Para dar um gostinho do que você encontrará no dashboard, confira uma imagem de como ele se apresenta:
 
 
+<img width="1494" height="242" alt="image" src="https://github.com/user-attachments/assets/cde85fe5-34f8-44c6-b3d0-10a506a7929f" />
 
 
 
