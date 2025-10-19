@@ -1,77 +1,91 @@
 <img width="1024" height="1024" alt="Gemini_Generated_Image_rxczyurxczyurxcz" src="https://github.com/user-attachments/assets/25c104a5-e4b7-4eb7-a86a-260ff9f01284" />
 
-# projetopessoal_fomezero
-### Primeiro projeto de Ciência de dados, abordando métricas e gráficos de culinárias pelo mundo.
+# 🍔 Fome Zero Analytics: Insights Estratégicos para o Crescimento
 
-#### O Fome Zero opera como um marketplace de restaurantes, facilitando as interações entre clientes e estabelecimentos. Os restaurantes se cadastram na plataforma da Fome Zero, fornecendo informações como localização, especialidades culinárias, disponibilidade de reservas e serviços de entrega, além de uma avaliação dos serviços e produtos oferecidos.
-#### O desafio atual é compreender melhor o negócio para tomar decisões estratégicas que impulsionem ainda mais o crescimento da Fome Zero. Para isso, é necessário realizar uma análise abrangente dos dados da empresa e criar dashboards a partir dessas análises, a fim de responder às seguintes perguntas estratégicas:
+## 🚀 Visão Geral do Projeto
 
-- Geral
-1. Quantos restaurantes únicos estão registrados?
-2. Quantos países únicos estão registrados?
-3. Quantas cidades únicas estão registradas?
-4. Qual o total de avaliações feitas?
-5. Qual o total de tipos de culinária registrados?
+Este projeto de análise de dados tem como objetivo fornecer insights estratégicos para a plataforma "Fome Zero", um marketplace de restaurantes. Através de uma análise abrangente de dados, foram desenvolvidos dashboards interativos para responder a perguntas-chave do negócio, visando impulsionar o crescimento e otimizar a tomada de decisões.
 
-- País
-1. Qual o nome do país que possui mais cidades registradas?
-2. Qual o nome do país que possui mais restaurantes registrados?
-3. Qual o nome do país que possui mais restaurantes com o nível de preço igual a 4 registrados?
-4. Qual o nome do país que possui a maior quantidade de tipos de culinária distintos?
-5. Qual o nome do país que possui a maior quantidade de avaliações feitas?
-6. Qual o nome do país que possui a maior quantidade de restaurantes que fazem entrega?
-7. Qual o nome do país que possui a maior quantidade de restaurantes que aceitam reservas?
-8. Qual o nome do país que possui, na média, a maior quantidade de avaliações registrada?
-9. Qual o nome do país que possui, na média, a maior nota média registrada?
-10. Qual o nome do país que possui, na média, a menor nota média registrada?
-11. Qual a média de preço de um prato para dois por país?
-12. 
-- Cidade
-1. Qual o nome da cidade que possui mais restaurantes registrados?
-2. Qual o nome da cidade que possui mais restaurantes com nota média acima de
-4?
-3. Qual o nome da cidade que possui mais restaurantes com nota média abaixo de
-2.5?
-4. Qual o nome da cidade que possui o maior valor médio de um prato para dois?
-5. Qual o nome da cidade que possui a maior quantidade de tipos de culinária distintas?
-6. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem reservas?
-7. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem entregas?
-8. Qual o nome da cidade que possui a maior quantidade de restaurantes que aceitam pedidos online?
+---
 
-- Restaurantes
-1. Qual o nome do restaurante que possui a maior quantidade de avaliações?
-2. Qual o nome do restaurante com a maior nota média?
-3. Qual o nome do restaurante que possui o maior valor de uma prato para duas pessoas?
-4. Qual o nome do restaurante de tipo de culinária brasileira que possui a menor média de avaliação?
-5. Qual o nome do restaurante de tipo de culinária brasileira, e que é do Brasil, que possui a maior média de avaliação?
-6. Os restaurantes que aceitam pedido online são também, na média, os restaurantes que mais possuem avaliações registradas?
-7. Os restaurantes que fazem reservas são também, na média, os restaurantes que possuem o maior valor médio de um prato para duas pessoas?
-8. Os restaurantes do tipo de culinária japonesa dos Estados Unidos da América possuem um valor médio de prato para duas pessoas maior que as churrascarias americanas (BBQ)?
+## 💡 O Desafio de Negócio
 
-- Tipos de Culinária
-1. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do restaurante com a maior média de avaliação?
-2. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do restaurante com a menor média de avaliação?
-3. Dos restaurantes que possuem o tipo de culinária americana, qual o nome do restaurante com a maior média de avaliação?
-4. Dos restaurantes que possuem o tipo de culinária americana, qual o nome do restaurante com a menor média de avaliação?
-5. Dos restaurantes que possuem o tipo de culinária árabe, qual o nome do restaurante com a maior média de avaliação?
-6. Dos restaurantes que possuem o tipo de culinária árabe, qual o nome do restaurante com a menor média de avaliação?
-7. Dos restaurantes que possuem o tipo de culinária japonesa, qual o nome do restaurante com a maior média de avaliação?
-8. Dos restaurantes que possuem o tipo de culinária japonesa, qual o nome do restaurante com a menor média de avaliação?
-9. Dos restaurantes que possuem o tipo de culinária caseira, qual o nome do restaurante com a maior média de avaliação?
-10. Dos restaurantes que possuem o tipo de culinária caseira, qual o nome do restaurante com a menor média de avaliação?
-11. Qual o tipo de culinária que possui o maior valor médio de um prato para duas pessoas?
-12. Qual o tipo de culinária que possui a maior nota média?
-13. Qual o tipo de culinária que possui mais restaurantes que aceitam pedidos online e fazem entregas?
+O Fome Zero atua como um hub digital que conecta clientes a uma vasta rede de restaurantes, facilitando desde o cadastro de estabelecimentos com suas especialidades, localização e opções de entrega/reserva, até a coleta de avaliações.
 
-#### Top 3 Insights de dados
-1. As métricas gerais Quantitativas. Há uma ampla variedade de restaurante na india com isso uma grande variedade de culinária sequênciais.
-2. londres tem mais restaurante avaliados 4 estrelas do que os outros cidade por habitante.
-3. Na maioria das capitais de cada Pais tem 80 restaurantes cadastrados.
+O desafio central foi aprofundar a compreensão sobre a dinâmica do negócio para identificar oportunidades de expansão e melhoria. A análise de dados foi crucial para desvendar padrões e responder a questões estratégicas que impactam diretamente o futuro da plataforma.
 
-#### O produto final do projeto
-  Painel online, hospedado em um Cloud e disponível para acesso em
-qualquer dispositivo conectado à internet.
-O painel pode ser acessado através desse link: https://projetopeappalfomezero-777.streamlit.app/
+---
+
+## 🎯 Perguntas Estratégicas Respondidas
+
+A análise foi estruturada para endereçar diversas áreas-chave do negócio, abrangendo métricas gerais, e insights específicos sobre países, cidades, restaurantes e tipos de culinária.
+
+### 📊 Métricas Gerais
+* Quantidade de restaurantes, países e cidades únicos.
+* Total de avaliações e tipos de culinária registrados.
+
+### 🌍 Análise por País
+* Identificação dos países com maior número de cidades, restaurantes, e avaliações.
+* Média de preço de pratos e notas de avaliação por país.
+* Países com maior aceitação de entrega e reservas.
+
+### 🏙️ Análise por Cidade
+* Cidades com maior concentração de restaurantes.
+* Desempenho de restaurantes por cidade (notas médias, prato para dois).
+* Oferta de serviços (reservas, entregas, pedidos online) por cidade.
+
+### 🍽️ Análise por Restaurante
+* Identificação dos restaurantes com maior número de avaliações, maior nota média e prato mais caro.
+* Comparativos de desempenho entre culinárias específicas (ex: brasileira, japonesa).
+* Impacto da aceitação de pedidos online e reservas na avaliação e preço.
+
+### 🍜 Análise por Tipo de Culinária
+* Melhores e piores restaurantes em termos de avaliação para culinárias específicas (italiana, americana, árabe, japonesa, caseira).
+* Culinárias com maior valor médio de prato e maior nota média.
+* Culinárias com maior adesão a pedidos online e entregas.
+
+---
+
+## 📈 Top 3 Insights Estratégicos
+
+1.  **Diversidade e Oportunidades na Índia:** A Índia se destaca pela vasta quantidade e variedade de restaurantes e culinárias, indicando um mercado com grande potencial e diversidade cultural.
+2.  **Excelência em Londres:** Londres apresenta uma concentração notável de restaurantes com 4 estrelas ou mais por habitante, sugerindo uma alta qualidade gastronômica percebida pelos usuários.
+3.  **Consistência em Capitais:** Observa-se que a maioria das capitais dos países tem em média 80 restaurantes cadastrados, indicando uma distribuição consistente de parceiros em grandes centros urbanos.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Python:** Linguagem principal para análise e manipulação de dados.
+* **Pandas:** Biblioteca para estruturação e análise de dados.
+* **Streamlit:** Framework para criação e hospedagem de dashboards interativos.
+* **GitHub:** Controle de versão e hospedagem do código-fonte.
+
+---
+
+## 🚀 Acesse o Dashboard Interativo
+
+Explore os dados e insights em tempo real através do nosso painel online, hospedado na nuvem e acessível de qualquer dispositivo:
+
+**[Acessar Dashboard Fome Zero Analytics](https://projetopeappalfomezero-777.streamlit.app/)**
+
+---
+
+## 🖼️ Prévia do Dashboard
+
+Para dar um gostinho do que você encontrará no dashboard, confira uma imagem de como ele se apresenta:
+
+
+
+
+
+---
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para sugerir melhorias, reportar issues ou enviar pull requests. Toda contribuição é bem-vinda!
+
+---
 
 #### Conclusão
   O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas
